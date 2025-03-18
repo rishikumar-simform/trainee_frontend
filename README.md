@@ -8,12 +8,12 @@ This is a simple **Node.js** and **Express.js** backend application that manages
 - API routes to fetch, add, and update books  
 - Automatically creates the books table if it does not exist  
 
-### Tech Stack  
-- Node.js  
-- Express.js  
-- MySQL (via mysql2 package)  
-- dotenv for environment variables  
-- CORS support  
+## Technologies
+
+- **Frontend**: React, React Router, Fetch API
+- **Backend**: Express.js
+- **Database**: Mysql
+- **CORS**: For handling cross-origin requests between the React frontend and Express backend.
 
 ## Getting Started
 ### Prerequisites
