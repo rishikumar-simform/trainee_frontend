@@ -28,7 +28,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/aakash-simform/trainee_frontend.git
+   git clone https://github.com/rishikumar-simform/trainee_frontend.git
    ```
 
 
@@ -47,4 +47,4 @@ Make sure you have the following installed on your machine:
    npm run dev
    ```
 
-   This will start the React app on `http://localhost:5173` by default.
+   This will start the React app on `http://localhost:3000` by default.
